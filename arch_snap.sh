@@ -1,3 +1,4 @@
+#/bin/bash
 sudo pacman -Syu
 yay -Syu btrfs-assistant snap-pac snapper-tools
 sudo pacman -S inotify-tools grub-btrfs
